@@ -1,6 +1,7 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-Hi I am Fer, I want to become an awesome developer
+Hi I am Fer, I want to become an awesome developer.
+I am from Barcelona Spain and I go as student to learn at Ironhack.
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
